@@ -9,7 +9,6 @@ export default function Home() {
     
      <>
        
-     <Header/>
      <Hero/>
      <HomeMenu/>
 
@@ -54,9 +53,7 @@ export default function Home() {
      
     </section>
 
-    <footer className="border-t p-8 text-center text-gray-500 mt-16j">
-     &copy; 2023 All rights reserved
-    </footer>
+    
      </>
   )
 }
