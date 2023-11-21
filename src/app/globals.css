@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+section.page{
+  background-color: black
+}
+section.hero{
+
+  @apply grid;
+  grid-template-columns: .4fr .6fr;
+}
